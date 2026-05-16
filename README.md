@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sheriff</h1>
 
 <p align="center">
-  <em>Architecting things across AI, real-estate tech, and the occasional 3D experiment.</em><br/>
+  <em>Research-led AI engineer. Building with LLMs / LSMs, Earth Intelligence, and quant systems.</em><br/>
   Based in London 🇬🇧 · Building with <a href="https://weventures.ai">@weventures.ai</a>
 </p>
 
@@ -15,9 +15,9 @@
 
 ### 🛠️ What I'm building
 
-- **Enterprise AI workspaces** — multi-agent platforms, observability, internal tooling
-- **Geospatial & real-estate tech** — performance-tuned map UIs, monitoring pipelines
-- **Founder tooling** — pitch decks → whitepapers → shipped product
+- 🧠 **Research-led AI systems** — LLMs, LSMs (Large Spatial Models), multi-agent pipelines, evals, fine-tuning
+- 🛰️ **Earth Intelligence platforms** — geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
+- 📈 **Quant on the side** — algo research and a local hedge-fund automation rig that trades while I sleep
 
 Most of the work lives in private repos. Private contributions are on, so the graph reflects what actually ships.
 
@@ -43,7 +43,7 @@ Most of the work lives in private repos. Private contributions are on, so the gr
 ### ⚙️ Stack I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,prisma,supabase,tailwind,docker,aws&perline=12" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,react,nextjs,tailwind,postgres,supabase,redis,docker,aws&perline=12" alt="stack" />
 </p>
 
 ---
