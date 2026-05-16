@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sheriff</h1>
 
 <p align="center">
-  <em>Research-led AI engineer. Building with LLMs / LSMs, Earth Intelligence, and quant systems.</em><br/>
-  Based in London 🇬🇧 · Building with <a href="https://weventures.ai">@weventures.ai</a>
+  Software architect, just building stuff I find interesting.
 </p>
 
 <p align="center">
@@ -17,7 +16,9 @@
 
 - 🧠 **Research-led AI systems** — LLMs, LSMs (Large Spatial Models), multi-agent pipelines, evals, fine-tuning
 - 🛰️ **Earth Intelligence platforms** — geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
-- 📈 **Quant on the side** — algo research and a local hedge-fund automation rig that trades while I sleep
+- 📈 **Quant on the side** — algo research and a local hedge-fund automation rig
+
+<sub><em>yes, the ADHD is doing its thing — turns out a hundred things can all be interesting at once.</em></sub>
 
 ---
 
