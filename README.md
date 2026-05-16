@@ -24,8 +24,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=Sheriffelrefaey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="github stats" />
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Sheriffelrefaey&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+  <img src="./github-metrics.svg" alt="github metrics" />
 </p>
 
 <p align="center">
