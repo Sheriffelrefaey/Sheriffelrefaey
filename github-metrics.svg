@@ -1774,7 +1774,7 @@
         
           <small>
             
-              estimation from 1.03mb of code in 346 edited files across 48 commits
+              estimation from 1.06mb of code in 361 edited files across 51 commits
             
           </small>
         
@@ -1785,21 +1785,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="238.408402089044" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="228.13330386948385" height="8" fill="#ededed"/>
             
-              <rect mask="url(#languages-bar)" x="238.408402089044" y="0" width="146.36163636313947" height="8" fill="#555555"/>
+              <rect mask="url(#languages-bar)" x="228.13330386948385" y="0" width="149.12156322283954" height="8" fill="#555555"/>
             
-              <rect mask="url(#languages-bar)" x="384.7700384521834" y="0" width="35.49229453224709" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="377.2548670923234" y="0" width="33.96262188161547" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="420.26233298443054" y="0" width="15.809832499337267" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="411.2174889739389" y="0" width="15.12844887215784" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="436.0721654837678" y="0" width="15.061203741913973" height="8" fill="#336790"/>
+              <rect mask="url(#languages-bar)" x="426.3459378460967" y="0" width="14.412085059866968" height="8" fill="#336790"/>
             
-              <rect mask="url(#languages-bar)" x="451.1333692256818" y="0" width="3.3653722646887614" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="440.75802290596374" y="0" width="12.968530778172518" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="454.49874149037055" y="0" width="2.927886441710917" height="8" fill="#6E4C13"/>
+              <rect mask="url(#languages-bar)" x="453.72655368413626" y="0" width="3.471748047475153" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="457.42662793208143" y="0" width="2.5733720679185264" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="457.1983017316114" y="0" width="2.8016982683886456" height="8" fill="#6E4C13"/>
             
           </svg>
         
@@ -1832,6 +1832,11 @@
               </div>
             
               <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                HTML
+              </div>
+            
+              <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Makefile
               </div>
@@ -1839,11 +1844,6 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Assembly
-              </div>
-            
-              <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Python
               </div>
             
           </div>
@@ -3863,7 +3863,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 16 May 2026, 20:39:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 16 May 2026, 20:54:03 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
