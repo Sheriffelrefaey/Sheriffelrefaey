@@ -41,7 +41,11 @@
 ### ⚙️ Stack I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,react,nextjs,tailwind,postgres,supabase,redis,docker,aws&perline=12" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,react,nextjs,nodejs,bun,tailwind,postgres,supabase,redis,docker,kubernetes,aws&perline=15" alt="stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white" alt="LangGraph" />
 </p>
 
 ---
