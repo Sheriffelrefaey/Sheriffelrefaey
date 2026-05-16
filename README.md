@@ -19,15 +19,13 @@
 - 🛰️ **Earth Intelligence platforms** — geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
 - 📈 **Quant on the side** — algo research and a local hedge-fund automation rig that trades while I sleep
 
-Most of the work lives in private repos. Private contributions are on, so the graph reflects what actually ships.
-
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sheriffelrefaey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="github stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheriffelrefaey&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=Sheriffelrefaey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="github stats" />
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Sheriffelrefaey&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
