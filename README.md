@@ -14,11 +14,11 @@
 
 ### 🛠️ What I'm building
 
-- 🧠 **Research-led AI systems** — LLMs, LSMs (Large Spatial Models), multi-agent pipelines, evals, fine-tuning
-- 🛰️ **Earth Intelligence platforms** — geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
-- 📈 **Quant on the side** — algo research and a local hedge-fund automation rig
 
-<sub><em>yes, the ADHD is doing its thing — turns out a hundred things can all be interesting at once.</em></sub>
+- 🛰️ **Earth-Observation & Intelligence systemss** — Exploring Large Spatial Foundation models, geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
+- 📈 **Quant on the side** — algo research, financial markets HFTS and local hedge-fund automation rigs
+
+<sub><em>Ig the ADHD is doing its thing — turns out a hundred things can all be interesting at once.</em></sub>
 
 ---
 
