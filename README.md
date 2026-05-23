@@ -12,17 +12,17 @@
 
 ---
 
-### 🛠️ What I'm building
+###  What I'm building
 
 
-- 🛰️ **Earth-Observation & Intelligence systemss** — Exploring Large Spatial Foundation models, geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
+- 🛰️ **Earth-Observation & Intelligence systems** — Exploring Large Spatial Foundation models, geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
 - 📈 **Quant on the side** — algo research, financial markets HFTS and local hedge-fund automation rigs
 
-<sub><em>Ig the ADHD is doing its thing — turns out a hundred things can all be interesting at once.</em></sub>
+<sub><em>Iguess the ADHD is doing its thing here, turns out a hundred things can all be interesting at once.</em></sub>
 
 ---
 
-### 📊 Stats
+###  Stats
 
 <p align="center">
   <img src="./github-metrics.svg" alt="github metrics" />
@@ -38,7 +38,7 @@
 
 ---
 
-### ⚙️ Stack I reach for
+###  Stack I reach for
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,react,nextjs,nodejs,bun,tailwind,postgres,supabase,redis,docker,kubernetes,aws&perline=15" alt="stack" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🎮 GitHub Contributions Breakout
+###  GitHub Contributions Breakout
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheriffelrefaey/Sheriffelrefaey/github-breakout/images/breakout-dark.svg" />
