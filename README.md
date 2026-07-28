@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sheriff</h1>
 
 <p align="center">
-  Software architect by day, GeoSpatial Engineer by night.
+  Software Architect by day, GeoInt Engineer by night.
 </p>
 
 <p align="center">
