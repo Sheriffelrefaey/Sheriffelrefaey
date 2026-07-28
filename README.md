@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sheriff</h1>
 
 <p align="center">
-  Software architect, just building stuff I find interesting.
+  Software architect by day, GeoSpatial Engineer by night.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 
 - 🛰️ **Earth-Observation & Intelligence systems** — Exploring Large Spatial Foundation models, geospatial AI, satellite/AOI monitoring, real-time map UIs at scale
-- 📈 **Quant on the side** — algo research, financial markets HFTS and local hedge-fund automation rigs
+- 📈 **Quant on the side** — algo research, financial markets HFTs and local hedge-fund automation rigs
 
 <sub><em>Iguess the ADHD is doing its thing here, turns out a hundred things can all be interesting at once.</em></sub>
 
